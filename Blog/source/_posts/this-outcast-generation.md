@@ -1,7 +1,8 @@
 ---
-title: 《蝮蛇的后裔》
+title: 翻译｜武田泰淳《蝮蛇的后裔》
 date: 2025-03-24 02:13:45
 tags: Japanese Literature
+excerpt: 日本文学家武田泰淳所作的短篇小说，原名《蝮のすえ》
 ---
 
 > 爱好者翻译，翻译自英文版"This Outcast Generation"

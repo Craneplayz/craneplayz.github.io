@@ -3,13 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Craneplayz
-subtitle: 'Learn, Play, Live.'
+title: Craneplayz's Blog
+subtitle: Palaeontology, Computer Science, and Life!
 description: ''
-keywords:
+keywords: [Palaeontology, Computer Science]
 author: Crane Koh
 language: zh
-timezone: ''
+timezone: UTC
+SEOTitle: Craneplayz's Blog
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
