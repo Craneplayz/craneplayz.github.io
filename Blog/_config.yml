@@ -103,5 +103,5 @@ theme: huxblog
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/craneplayz/craneplayz.github.io
+  repo: https://github.com/Craneplayz/craneplayz.github.io
   branch: gh-pages
